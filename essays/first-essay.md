@@ -1,6 +1,7 @@
 layout: essay
 type: essay
 title: Why MIS?
+published: true
 date: 2020-01-20
 labels:
   - Introduction
