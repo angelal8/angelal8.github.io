@@ -5,8 +5,8 @@ title: E1: UI Basics Technical Essay
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-12
 labels:
-  - WODS
   - BrowserHistory
+  - WODs
 ---
 
 I recently just completed my first three sets of WODs and I can conclude that they are very hard to do since I am still new to coding. They did take up a lot of time, especially browser history 1, so they were not easy to complete. Even though I watched the screencast, I was still very forgetful of the steps while retrying the WODs, so that took up a lot of time as well. Browser history 1 was definitely the WOD that I spent the most time on, and maybe I will go back and retry it so I can complete it in less than 10 minutes.
